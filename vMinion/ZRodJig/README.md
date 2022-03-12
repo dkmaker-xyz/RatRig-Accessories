@@ -15,7 +15,7 @@
 Print with 3-4 walls and 25% infill
 
 * 1x - [ZRodJigV3.stl](ZRodJigV3.stl)
-* 2x - [AlignmentV2.stl](AlignmentV2.stl)
+* 2x - [AlignmentV3.stl](AlignmentV3.stl)
 
 ## Showoff
 
